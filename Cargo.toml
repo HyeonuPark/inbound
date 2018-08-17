@@ -1,0 +1,11 @@
+[package]
+name = "inbound"
+version = "0.1.0"
+authors = ["Hyeonu Park <nemo1275@gmail.com>"]
+
+[dependencies]
+snowflake = "1.3"
+itertools = "0.7"
+
+[dev-dependencies]
+rand = "0.5"
